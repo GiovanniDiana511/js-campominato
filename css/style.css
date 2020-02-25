@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    background-image: url("https://cdn.wallpaperhi.com/1920x1200/20120307/eyes%20black%20dogs%20funny%20monochrome%20black%20background%201920x1200%20wallpaper_www.wallpaperhi.com_88.jpg");
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
